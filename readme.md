@@ -42,7 +42,7 @@ A modern, feature-rich word processor built entirely with HTML5 Canvas, CSS, and
 
 ### Option 1: Try it Online
 
-**[🔗 Live Demo - Try the Editor Now!](https://claude.ai)**
+**[🔗 Live Demo - Try the Editor Now!](https://mayankkuthar.github.io/Word-Editor/)**
 
 *Click the link above to experience the Canvas Word Editor in action*
 
